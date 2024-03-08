@@ -5,6 +5,6 @@
   "keywords": ["grafana", "heroku", "docker"],
   "stack": "container",
   "addons": [
-    "heroku-postgresql:hobby-dev"
+    "heroku-postgresql:essential-1"
   ]
 }
